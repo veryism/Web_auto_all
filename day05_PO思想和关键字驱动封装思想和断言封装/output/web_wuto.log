@@ -1,0 +1,114 @@
+2026-10-14 18:56:26.073 | INFO     | pageobjects.page_home:click_login:26 - ===============执行鼠标点击===============
+2026-10-14 18:56:26.073 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="登录"]
+2026-10-14 18:56:26.128 | INFO     | pageobjects.page_login:aconunt_login:21 - ===============账号密码登录===============
+2026-10-14 18:56:26.128 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入手机号/用户名"]，输入内容：lemon_auto
+2026-10-14 18:56:26.141 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入密码"]，输入内容：lemon123456
+2026-10-14 18:56:26.152 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="login-button"]
+2026-10-14 18:56:28.182 | INFO     | pageobjects.page_home:click_center:37 - ===============执行鼠标点击===============
+2026-10-14 18:56:28.182 | INFO     | common.base_page:click:18 - 执行点击：//span[text()="个人中心"]
+2026-10-14 18:56:28.217 | INFO     | pageobjects.page_centers:hove_center_profile:20 - ===============执行鼠标悬停===============
+2026-10-14 18:56:28.217 | INFO     | common.base_page:mouse_hover:40 - 鼠标悬停：//div[@class="portrait-box"]
+2026-10-14 18:56:28.620 | INFO     | pageobjects.page_centers:click_profile:28 - ===============执行鼠标点击===============
+2026-10-14 18:56:28.621 | INFO     | common.base_page:click:18 - 执行点击：//div[@class="edit"]
+2026-10-14 18:56:28.696 | INFO     | common.base_page:upload_file:47 - 文件上传操作：//div[@class="el-upload el-upload--text"]，上传文件：C:\WGY_Python\web_auto\day05_PO思想和关键字驱动封装思想和断言封装\testdatas\yuansu.png
+2026-10-14 18:56:28.713 | INFO     | common.base_page:click:18 - 执行点击：//div[@class="el-upload el-upload--text"]
+2026-10-14 18:56:28.922 | INFO     | common.base_page:upload_file:53 - 文件上传监听窗口://div[@class="el-upload el-upload--text"]
+2026-10-14 18:56:28.946 | INFO     | common.base_page:upload_file:56 - 文件上传完成:C:\WGY_Python\web_auto\day05_PO思想和关键字驱动封装思想和断言封装\testdatas\yuansu.png
+2026-10-14 18:56:31.964 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="保存账户信息"]
+2026-10-14 18:56:35.263 | INFO     | pageobjects.page_home:click_login:26 - ===============执行鼠标点击===============
+2026-10-14 18:56:35.263 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="登录"]
+2026-10-14 18:56:35.309 | INFO     | pageobjects.page_login:aconunt_login:21 - ===============账号密码登录===============
+2026-10-14 18:56:35.309 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入手机号/用户名"]，输入内容：lemon_auto
+2026-10-14 18:56:35.321 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入密码"]，输入内容：lemon123456
+2026-10-14 18:56:35.331 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="login-button"]
+2026-10-14 18:56:37.362 | INFO     | pageobjects.page_home:is_welcome_tips_locator:64 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//span[text() = "欢迎来到柠檬班"]'>
+2026-10-14 18:56:37.377 | INFO     | pageobjects.page_home:is_username_locator:70 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//a[@class = "link-name"]'>
+2026-10-14 18:56:37.385 | INFO     | common.base_page:input_type:29 - 执行输入操作：//div[@class="search-input-box"]/input，输入内容：i7高配一体机电脑
+2026-10-14 18:56:37.410 | INFO     | common.base_page:click:18 - 执行点击：//div[@class="search-msg"]/input
+2026-10-14 18:56:37.433 | INFO     | common.base_page:click:18 - 执行点击：//div[contains(text(),"i7高配一体机电脑")]
+2026-10-14 18:56:37.765 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="add-cart"]
+2026-10-14 18:56:37.817 | INFO     | pageobjects.page_product_deteils:is_add_cart:60 - 添加购物车弹窗提示：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/detail/32'> selector='//a[@class="add-cart"]'>
+2026-10-14 18:56:37.827 | INFO     | common.base_page:click:18 - 执行点击：//span[@data-route="cart"]
+2026-10-14 18:56:37.856 | INFO     | pageobjects.page_cart:select_seetle_prod:13 - 点击购物车内商品i7高配一体机电脑勾选框,并结算
+2026-10-14 18:56:37.856 | INFO     | common.base_page:click:18 - 执行点击：//a[contains(text(), "i7高配一体机电脑")]/parent::div/preceding-sibling::div[2]/input
+2026-10-14 18:56:38.686 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="btn"]
+2026-10-14 18:56:40.715 | INFO     | pageobjects.page_submit_order:click_submit:17 - 点击提交订单
+2026-10-14 18:56:40.715 | INFO     | common.base_page:click:18 - 执行点击：//a[text() = "提交订单"]
+2026-10-14 18:56:42.756 | INFO     | common.base_page:click:18 - 执行点击：//span[text() = "微信支付"]
+2026-10-14 18:56:42.769 | INFO     | common.base_page:click:18 - 执行点击：//a[text() = "立即付款"]
+2026-10-14 18:56:42.792 | INFO     | pageobjects.page_product_deteils:is_wechat_pay_loc:47 - 判断支付微信按钮是否可见：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/payment'> selector='//span[text()="微信支付"]'>
+2026-10-14 18:56:42.797 | INFO     | pageobjects.page_product_deteils:is_submit_order:54 - 判断跳转到微信扫码二维码页面：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/payment'> selector='//div[text() = "微信扫一扫支付"]'>
+2026-10-14 18:56:43.004 | INFO     | common.base_page:click:18 - 执行点击：//span[@data-route="order"]
+2026-10-14 18:56:50.216 | INFO     | pageobjects.page_home:click_login:26 - ===============执行鼠标点击===============
+2026-10-14 18:56:50.216 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="登录"]
+2026-10-14 18:56:50.261 | INFO     | pageobjects.page_login:aconunt_login:21 - ===============账号密码登录===============
+2026-10-14 18:56:50.261 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入手机号/用户名"]，输入内容：lemon_auto
+2026-10-14 18:56:50.274 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入密码"]，输入内容：lemon123456
+2026-10-14 18:56:50.285 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="login-button"]
+2026-10-14 18:56:52.321 | INFO     | pageobjects.page_home:is_welcome_tips_locator:64 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//span[text() = "欢迎来到柠檬班"]'>
+2026-10-14 18:56:52.337 | INFO     | pageobjects.page_home:is_username_locator:70 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//a[@class = "link-name"]'>
+2026-10-14 18:57:05.406 | INFO     | pageobjects.page_home:click_login:26 - ===============执行鼠标点击===============
+2026-10-14 18:57:05.406 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="登录"]
+2026-10-14 18:57:05.451 | INFO     | pageobjects.page_login:aconunt_login:21 - ===============账号密码登录===============
+2026-10-14 18:57:05.451 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入手机号/用户名"]，输入内容：lemon_auto
+2026-10-14 18:57:05.462 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入密码"]，输入内容：lemon123456
+2026-10-14 18:57:05.474 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="login-button"]
+2026-10-14 18:57:07.502 | INFO     | pageobjects.page_home:is_welcome_tips_locator:64 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//span[text() = "欢迎来到柠檬班"]'>
+2026-10-14 18:57:07.516 | INFO     | pageobjects.page_home:is_username_locator:70 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//a[@class = "link-name"]'>
+2026-10-14 18:57:20.225 | INFO     | pageobjects.page_home:click_login:26 - ===============执行鼠标点击===============
+2026-10-14 18:57:20.226 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="登录"]
+2026-10-14 18:57:20.273 | INFO     | pageobjects.page_login:aconunt_login:21 - ===============账号密码登录===============
+2026-10-14 18:57:20.273 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入手机号/用户名"]，输入内容：lemon_auto
+2026-10-14 18:57:20.283 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入密码"]，输入内容：lemon123456
+2026-10-14 18:57:20.294 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="login-button"]
+2026-10-14 18:57:22.322 | INFO     | pageobjects.page_home:is_welcome_tips_locator:64 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//span[text() = "欢迎来到柠檬班"]'>
+2026-10-14 18:57:22.335 | INFO     | pageobjects.page_home:is_username_locator:70 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//a[@class = "link-name"]'>
+2026-10-14 18:59:19.293 | INFO     | pageobjects.page_home:click_login:26 - ===============执行鼠标点击===============
+2026-10-14 18:59:19.293 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="登录"]
+2026-10-14 18:59:19.361 | INFO     | pageobjects.page_login:aconunt_login:21 - ===============账号密码登录===============
+2026-10-14 18:59:19.361 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入手机号/用户名"]，输入内容：lemon_auto
+2026-10-14 18:59:19.378 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入密码"]，输入内容：lemon123456
+2026-10-14 18:59:19.392 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="login-button"]
+2026-10-14 18:59:21.420 | INFO     | pageobjects.page_home:click_center:37 - ===============执行鼠标点击===============
+2026-10-14 18:59:21.421 | INFO     | common.base_page:click:18 - 执行点击：//span[text()="个人中心"]
+2026-10-14 18:59:21.461 | INFO     | pageobjects.page_centers:hove_center_profile:20 - ===============执行鼠标悬停===============
+2026-10-14 18:59:21.462 | INFO     | common.base_page:mouse_hover:40 - 鼠标悬停：//div[@class="portrait-box"]
+2026-10-14 18:59:21.744 | INFO     | pageobjects.page_centers:click_profile:28 - ===============执行鼠标点击===============
+2026-10-14 18:59:21.744 | INFO     | common.base_page:click:18 - 执行点击：//div[@class="edit"]
+2026-10-14 18:59:21.978 | INFO     | common.base_page:upload_file:47 - 文件上传操作：//div[@class="el-upload el-upload--text"]，上传文件：C:\WGY_Python\web_auto\day05_PO思想和关键字驱动封装思想和断言封装\testdatas\yuansu.png
+2026-10-14 18:59:22.000 | INFO     | common.base_page:click:18 - 执行点击：//div[@class="el-upload el-upload--text"]
+2026-10-14 18:59:22.127 | INFO     | common.base_page:upload_file:53 - 文件上传监听窗口://div[@class="el-upload el-upload--text"]
+2026-10-14 18:59:22.151 | INFO     | common.base_page:upload_file:56 - 文件上传完成:C:\WGY_Python\web_auto\day05_PO思想和关键字驱动封装思想和断言封装\testdatas\yuansu.png
+2026-10-14 18:59:25.173 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="保存账户信息"]
+2026-10-14 18:59:27.955 | INFO     | pageobjects.page_home:click_login:26 - ===============执行鼠标点击===============
+2026-10-14 18:59:27.956 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="登录"]
+2026-10-14 18:59:28.036 | INFO     | pageobjects.page_login:aconunt_login:21 - ===============账号密码登录===============
+2026-10-14 18:59:28.036 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入手机号/用户名"]，输入内容：lemon_auto
+2026-10-14 18:59:28.057 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入密码"]，输入内容：lemon123456
+2026-10-14 18:59:28.077 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="login-button"]
+2026-10-14 18:59:30.115 | INFO     | pageobjects.page_home:is_welcome_tips_locator:64 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//span[text() = "欢迎来到柠檬班"]'>
+2026-10-14 18:59:30.129 | INFO     | pageobjects.page_home:is_username_locator:70 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//a[@class = "link-name"]'>
+2026-10-14 18:59:30.136 | INFO     | common.base_page:input_type:29 - 执行输入操作：//div[@class="search-input-box"]/input，输入内容：i7高配一体机电脑
+2026-10-14 18:59:30.147 | INFO     | common.base_page:click:18 - 执行点击：//div[@class="search-msg"]/input
+2026-10-14 18:59:30.171 | INFO     | common.base_page:click:18 - 执行点击：//div[contains(text(),"i7高配一体机电脑")]
+2026-10-14 18:59:30.506 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="add-cart"]
+2026-10-14 18:59:30.627 | INFO     | pageobjects.page_product_deteils:is_add_cart:60 - 添加购物车弹窗提示：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/detail/32'> selector='//a[@class="add-cart"]'>
+2026-10-14 18:59:30.634 | INFO     | common.base_page:click:18 - 执行点击：//span[@data-route="cart"]
+2026-10-14 18:59:30.661 | INFO     | pageobjects.page_cart:select_seetle_prod:13 - 点击购物车内商品i7高配一体机电脑勾选框,并结算
+2026-10-14 18:59:30.661 | INFO     | common.base_page:click:18 - 执行点击：//a[contains(text(), "i7高配一体机电脑")]/parent::div/preceding-sibling::div[2]/input
+2026-10-14 18:59:30.975 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="btn"]
+2026-10-14 18:59:33.013 | INFO     | pageobjects.page_submit_order:click_submit:17 - 点击提交订单
+2026-10-14 18:59:33.013 | INFO     | common.base_page:click:18 - 执行点击：//a[text() = "提交订单"]
+2026-10-14 18:59:35.037 | INFO     | common.base_page:click:18 - 执行点击：//span[text() = "微信支付"]
+2026-10-14 18:59:35.057 | INFO     | common.base_page:click:18 - 执行点击：//a[text() = "立即付款"]
+2026-10-14 18:59:35.079 | INFO     | pageobjects.page_product_deteils:is_wechat_pay_loc:47 - 判断支付微信按钮是否可见：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/payment'> selector='//span[text()="微信支付"]'>
+2026-10-14 18:59:35.085 | INFO     | pageobjects.page_product_deteils:is_submit_order:54 - 判断跳转到微信扫码二维码页面：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/payment'> selector='//div[text() = "微信扫一扫支付"]'>
+2026-10-14 18:59:35.298 | INFO     | common.base_page:click:18 - 执行点击：//span[@data-route="order"]
+2026-10-14 18:59:41.778 | INFO     | pageobjects.page_home:click_login:26 - ===============执行鼠标点击===============
+2026-10-14 18:59:41.778 | INFO     | common.base_page:click:18 - 执行点击：//a[text()="登录"]
+2026-10-14 18:59:41.827 | INFO     | pageobjects.page_login:aconunt_login:21 - ===============账号密码登录===============
+2026-10-14 18:59:41.827 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入手机号/用户名"]，输入内容：lemon_auto
+2026-10-14 18:59:41.840 | INFO     | common.base_page:input_type:29 - 执行输入操作：//input[@placeholder="请输入密码"]，输入内容：lemon123456
+2026-10-14 18:59:41.852 | INFO     | common.base_page:click:18 - 执行点击：//a[@class="login-button"]
+2026-10-14 18:59:43.879 | INFO     | pageobjects.page_home:is_welcome_tips_locator:64 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//span[text() = "欢迎来到柠檬班"]'>
+2026-10-14 18:59:43.893 | INFO     | pageobjects.page_home:is_username_locator:70 - 元素定位：<Locator frame=<Frame name= url='http://mall.lemonban.com:3344/'> selector='//a[@class = "link-name"]'>

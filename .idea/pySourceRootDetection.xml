@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PySourceRootDetectionService">
+    <option name="sourcePathsSet">
+      <set>
+        <option value="$PROJECT_DIR$/day04_pytest_and_playwright/day04_zouye" />
+        <option value="$PROJECT_DIR$/day05_PO思想和关键字驱动封装思想和断言封装" />
+        <option value="$PROJECT_DIR$/day06_数据驱动ddt" />
+        <option value="$PROJECT_DIR$/day05_po_assertion" />
+        <option value="$PROJECT_DIR$/day04_pytest_and_playwright" />
+        <option value="$PROJECT_DIR$/day06_数据驱动测试和动态切换环境" />
+      </set>
+    </option>
+  </component>
+</project>
