@@ -1,0 +1,1 @@
+{"name": "test_homework[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1792655981963, "stop": 1792656011969, "uuid": "c647598f-bbe3-455b-907e-242e15790ab6", "testCaseId": "916d796ad126342242b10a1cbb9b5712", "fullName": "testcases.test_homework#test_homework", "titlePath": ["testcases", "test_homework.py"]}
